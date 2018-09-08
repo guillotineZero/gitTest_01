@@ -12,3 +12,5 @@ test_04
 abcdefg
 
 gitCopy fuck
+
+gitCopy fuck fuck second
